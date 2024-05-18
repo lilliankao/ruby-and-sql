@@ -13,6 +13,7 @@
 # 1. in terminal, generate the model and table for Company
 # rails generate model _____
 
+
 # 2. open newly generated files
 
 # 3. in the db/migrate file, add relevant columns matching our domain model
